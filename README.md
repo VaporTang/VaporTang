@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I'm a student from China 🇨🇳
+- I'm interested in a lot of fields related to science and technology 🔭
 <!--
 **VaporTang/VaporTang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
